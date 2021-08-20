@@ -17,7 +17,6 @@
  
 import 'bootstrap/dist/css/bootstrap.css'
 import * as tf from '@tensorflow/tfjs'
-import * as tfvis from '@tensorflow/tfjs-vis'
 import $ from 'jquery'
 import Webcam from './webcam'
 require('babel-polyfill')
